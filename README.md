@@ -2,9 +2,6 @@
 ![NYC Skyline](https://walkaboutwanderer.com/wp-content/uploads/2022/08/mike-c-valdivia-kZokA2VTKn4-unsplash-1080x675.jpg)
 Welcome to New York City, one of the most-visited cities in the world. There are many Airbnb listings in New York City to meet the high demand for temporary lodging for travelers, which can be anywhere between a few nights to many months. In this project, we will take a closer look at the New York Airbnb market by combining data from multiple file types like `.csv`, `.tsv`, and `.xlsx`.
 
-Recall that **CSV**, **TSV**, and **Excel** files are three common formats for storing data. 
-Three files containing data on 2019 Airbnb listings are available to you:
-
 **data/airbnb_price.csv**
 This is a CSV file containing data on Airbnb listing prices and locations.
 - **`listing_id`**: unique identifier of listing
